@@ -7,10 +7,10 @@ import plotly.graph_objs as go
 
 myheading = "Baseball Stats from the 1950s"
 mytitle = "Stock Value Over Time"
-x_values = ['2001', '2002', '2003', '2004', '2005', '2006']
-y1_values = [100, 80, 200, 140, 250, 300]
-y2_values = [10, 20, 30, 40, 50, 60]
-y3_values = [100, 100, 100, 100, 100, 100]
+x_values = ['2001', '2002', '2003', '2004', '2005', '2006','2007','2008']
+y1_values = [100, 80, 200, 140, 250, 300,150,180]
+y2_values = [10, 20, 30, 40, 50, 60,70,80]
+y3_values = [100, 100, 100, 100, 100, 100,100,100]
 color1 = 'red'
 color2 = 'blue'
 color3 = 'yellow'
