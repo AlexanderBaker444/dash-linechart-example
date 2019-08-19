@@ -5,7 +5,7 @@ import plotly.graph_objs as go
 
 ########### Define your variables ######
 
-myheading = "Baseball Stats from the 1950s"
+myheading = "Stock Value in the Early 2000's"
 mytitle = "Stock Value Over Time"
 x_values = ['2001', '2002', '2003', '2004', '2005', '2006','2007','2008']
 y1_values = [100, 80, 200, 140, 250, 300,150,180]
